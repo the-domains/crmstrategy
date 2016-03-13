@@ -1,0 +1,14 @@
+layout_spectrum: 0.7223416
+color:
+  saturation: 0.4731471
+  brandStrength: 0.4752954
+  lightness: 0.4548872
+  brandColors:
+    - '#FFFFFF'
+    - '#9C0B0E'
+    - '#6C2022'
+    - '#CC9A9D'
+    - '#FFB1B7'
+  rhythmicContrast: 0.1967179
+typography_spectrum: 0.7094522
+name: Crmstrategy
